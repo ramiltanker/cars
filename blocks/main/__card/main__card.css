@@ -1,0 +1,32 @@
+.main__card {
+  max-width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center; 
+  border-radius: 5px;
+}
+
+.main__card:nth-child(1) {
+  background-image: url(../../../images/Bitmap\ 6.png);
+}
+
+.main__card:nth-child(3) {
+  background-image: url(../../../images/BMW.png);
+  grid-row: 2/2;
+}
+
+.main__card:nth-child(4) {
+  background-image: url(../../../images/Bitmap\ 11.png);
+  grid-row: 3/3;
+}
+
+.main__card:nth-child(5) {
+  background-image: url(../../../images/Bitmap\ 12.png);
+  grid-row: 4/4;
+}
+
+.main__card:nth-child(6) {
+  background-image: url(../../../images/Bitmap\ 13.png);
+  grid-row: 5/5;
+}

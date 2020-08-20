@@ -1,0 +1,10 @@
+.popular__title {
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 39px;
+color: #171717;
+grid-column: 1/5;
+grid-row: 1/1;
+}

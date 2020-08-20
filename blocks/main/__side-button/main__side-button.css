@@ -1,0 +1,23 @@
+.main__side-button {
+  width: 100%;
+  background: #232323;
+  border-radius: 5px;
+  padding-right: 82px;
+  padding-left: 82px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #FFFFFF;;
+}
+
+.main__side-button:nth-child(3) {
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 0;
+margin-top: 10px;
+margin-bottom: 15px;
+}
+
+.main__side-button:nth-child(5) {
+ padding: 0;
+  }

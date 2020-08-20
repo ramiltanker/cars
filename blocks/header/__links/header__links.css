@@ -1,0 +1,9 @@
+.header__links {
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 36px;
+    margin-bottom: 36px;
+}

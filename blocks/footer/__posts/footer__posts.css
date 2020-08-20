@@ -1,0 +1,10 @@
+.footer__posts {
+    grid-column: 2/2;
+    grid-row: 2/2;
+    display: grid;
+    grid-template-columns: 95px 180px;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 25px;
+    column-gap: 20px;
+    grid-column: 1/1;
+}

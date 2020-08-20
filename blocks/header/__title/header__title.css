@@ -1,0 +1,19 @@
+.header__title {
+  text-align: center;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: calc(14px + 0 * (100vw / 1280));
+  line-height: 17px;
+  color: #ffffff;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+@media all and (max-width: 768px) {
+  .header__title {
+  font-size: calc(14px + (0 + 0 * 0.7) * ((100vw - 320px) / 1280));
+  }
+}

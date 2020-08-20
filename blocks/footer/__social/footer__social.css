@@ -1,0 +1,7 @@
+.footer__social {
+    display: grid;
+    grid-template-columns: 230px;
+    grid-auto-rows: auto;
+    grid-row: 3/3;
+    grid-column: 1/1;
+}

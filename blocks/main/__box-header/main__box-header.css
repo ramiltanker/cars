@@ -1,0 +1,15 @@
+.main__box-header {
+max-width: 600px;   
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 28px;
+color: #171717;
+margin: auto;
+margin-top: 20px;
+margin-left: 30px;
+margin-bottom: 15px;
+margin-right: 100px;
+
+}

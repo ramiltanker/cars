@@ -1,0 +1,11 @@
+.main__button-text {
+text-align: center;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: calc(14px + 0 * (100vw / 1280));
+line-height: 18px;
+color: #FFFFFF;
+margin-top: 15px;
+margin-bottom: 15px;
+}

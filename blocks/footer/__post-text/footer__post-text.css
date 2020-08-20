@@ -1,0 +1,4 @@
+.footer__post-text {
+    display: flex;
+    flex-direction: column;
+}

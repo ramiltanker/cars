@@ -1,0 +1,12 @@
+.cards__title {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: calc(12px + 0 * (100vw / 1280));
+  line-height: 16px;
+  color: #ffffff;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}

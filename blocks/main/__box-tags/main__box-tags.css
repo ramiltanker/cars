@@ -1,0 +1,8 @@
+.main__box-tags {
+    max-width: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(6, 30px);
+    gap: 10px;
+    justify-items: baseline;
+}

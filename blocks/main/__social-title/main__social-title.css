@@ -1,0 +1,12 @@
+.main__social-title {
+  max-width: 100%;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  color: #171717;
+  margin: auto;
+  margin-top: 45px;
+  margin-bottom: 25px;
+}

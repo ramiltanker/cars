@@ -1,0 +1,14 @@
+.basement__link {
+    text-decoration: none;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: calc(14px + 0 * (100vw / 1280));
+    line-height: 18px;
+    color: #ffffff;
+    margin-right: 50px;
+  }
+  
+  .basement__link:last-child {
+      margin-right: 0;
+  }

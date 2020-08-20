@@ -1,0 +1,11 @@
+.main__side-caption {
+font-family: PT Sans;
+font-style: italic;
+font-weight: normal;
+font-size: calc(14px + 0 * (100vw / 1280));
+line-height: 18px;
+color: #999999;
+margin: auto;
+margin-left: 0;
+margin-bottom: 15px;
+}

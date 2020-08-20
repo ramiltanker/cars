@@ -1,0 +1,10 @@
+.main {
+max-width: 100%;
+display: grid;
+grid-template-columns: 770px 270px;
+grid-template-rows: repeat(5, 560px);
+column-gap: 100px;
+row-gap: 60px;
+justify-content: center;
+margin-bottom: 180px;
+}

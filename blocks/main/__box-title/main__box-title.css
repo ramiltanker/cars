@@ -1,0 +1,13 @@
+.main__box-title {
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: calc(12px + 0 * (100vw / 1280));
+line-height: 16px;
+color: #FFFFFF;
+margin: auto;
+margin-top: 4px;
+margin-bottom: 4px;
+margin-left: 12px;
+margin-right: 12px;
+}
